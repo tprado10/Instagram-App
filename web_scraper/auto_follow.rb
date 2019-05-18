@@ -3,9 +3,9 @@ require 'pry'
 require 'rb-readline'
 require 'awesome_print'
 
-
-username = "healingpathdayspa"
-password =  "Ces-dNK-P32-FUt"
+# enter your own credentials
+username = " "
+password =  " "
 user =  ["josephineskriver", "theweekend", "kendalljenner", "karliekloss"]
 
 # open Browser, Nav to Login Page
